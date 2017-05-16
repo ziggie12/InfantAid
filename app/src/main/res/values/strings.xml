@@ -1,0 +1,85 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyDashes">
+    <string name="app_name">TestResources</string>
+    <string name="diarrhoea_alert">Get medical attention if there is blood or you suspect poisoning </string>
+    <string-array name="diarrhoea_diagnosis">
+        <item>1. Repeated passing of loose or watery stool.</item>
+        <item>2. Can include stomach ache, vomiting, headache and fever.</item>
+    </string-array>
+    <string-array
+        name="diarrhoea_responses">
+        <item>1. Increase fluid intake.</item>
+        <item>2. Offer milk or oral re-hydration solution(ORS) to infants and young children.</item>
+        <item>3. Give small frequent meals.</item>
+        <item>4. Avoid fruit juice and fizzy drinks, as well as sugary foods.</item>
+    </string-array>
+    <string name="vomiting_alert">Get medical attention if you suspect poisoning </string>
+    <string-array
+        name="vomiting_diagnosis">
+        <item>1. Involuntary expulsion of stomach contents through mouth or nose.</item>
+        <item>2. Can include stomach ache and diarrhoea.</item>
+    </string-array>
+    <string-array
+        name="vomiting_responses">
+        <item>1. Increase fluid intake; give small sips at a time.</item>
+        <item>2. Offer popsicles (ice lollies) to avoid dehydration.</item>
+        <item>3. Avoid solid food for up to 6 hours or until vomiting subsides.</item>
+        <item>4. Avoid fruit juice and fizzy drinks.</item>
+    </string-array>
+    <string name="fractures_alert"> Do not move the child if bone is protruding or injury includes head/neck </string>
+    <string-array
+        name="fractures_diagnosis">
+        <item>1. You heard a snap or grinding sound.</item>
+        <item>2. Swelling, bruising, or tenderness around the injured part.</item>
+        <item>3. Painful to touch or move.</item>
+    </string-array>
+    <string-array
+        name="fractures_responses">
+        <item>1. Gently remove clothing from around injured area.</item>
+        <item>2. Apply a cold compress or ice pack wrapped in cloth. Do not put ice directly on the skin.</item>
+        <item>3. Keep limb in the position you find it.</item>
+        <item>4. Place soft padding around the injured part.</item>
+        <item>5.  Get medical assistance.</item>
+    </string-array>
+    <string name="cuts_alert"> Get medical attention immediately if you cannot stop the bleeding in 5 minutes.</string>
+    <string-array
+        name="cuts_emergency">
+        <item>1. Wound begins bleeding again after 5 minutes of continuously applying pressure.</item>
+        <item>2. Cut is on the child\'s face or neck.</item>
+        <item>3. Injury was caused by an animal or human bite, a burn, electrical injury, or puncture wound.</item>
+        <item>4. The cut appears to be deep.</item>
+    </string-array>
+    <string-array
+        name="cuts_responses">
+        <item>1. Rinse the wound thoroughly with water to clean out dirt and debris.</item>
+        <item>2. Wash the wound with an antiseptic solution and water; rinse well.</item>
+        <item>3. Cover the wound with a sterile adhesive bandage or sterile gauze and adhesive tape.</item>
+        <item>4. If blood soaks through the gauze, do not remove it. Apply another gauze pad on top and continue applying pressure.</item>
+    </string-array>
+    <string name="burns_alert">Get immediate medical attention if burn is on the face, scalp, hands, joint surfaces, or genitals.</string>
+    <string-array
+        name="burns_diagnosis">
+        <item>1. First degree burns: redness, pain, and minor swelling. The skin is dry without blisters.</item>
+        <item>2. Second-degree burns: blisters, severe pain, and redness.</item>
+        <item>3. Third degree burns: surface appears dry, looks waxy white, leathery, brown, or charred. There may be little or no pain or the area may feel numb at first because of nerve damage.</item>
+    </string-array>
+    <string-array
+        name="burns_responses">
+        <item>1. Remove child from heat source.</item>
+        <item>2. Run cool(not cold) water over the area, or hold clean cold compress for 3 - 5 minutes.</item>
+        <item>3. Give child something for the pain.</item>
+        <item>4. Seek immediate medical attention for second and third degree burns.</item>
+    </string-array>
+    <string name="bites_alert"> Get immediate medical attention if child has allergic reaction.</string>
+    <string-array
+        name="bites_diagnosis">
+        <item>1. Bug bites and stings are usually just annoying, causing temporary discomfort and pain.</item>
+    </string-array>
+    <string-array
+        name="bites_responses">
+        <item>1. Remove stinger if it\’s still visible.</item>
+        <item>2. Wash the area with an antiseptic solution and water.</item>
+        <item>3. Apply ice pack or cold compress for a few minutes.</item>
+        <item>4. Give child something for the pain.</item>
+        <item>5. Seek immediate medical attention if bite was caused by an animal or human.</item>
+    </string-array>
+</resources>
