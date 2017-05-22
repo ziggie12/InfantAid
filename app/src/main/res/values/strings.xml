@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyDashes">
-    <string name="app_name">TestResources</string>
+    <string name="app_name">Infant Aid</string>
     <string name="diarrhoea_alert">Get medical attention if there is blood or you suspect poisoning </string>
     <string-array name="diarrhoea_diagnosis">
         <item>1. Repeated passing of loose or watery stool.</item>
